@@ -1,0 +1,3 @@
+[submodule "DevDefined.OAuth"]
+	path = DevDefined.OAuth
+	url = https://github.com/bittercoder/DevDefined.OAuth.git

@@ -1,0 +1,15 @@
+*.dll
+*.exe
+*.userprefs
+*.pidb
+*.mdb
+bin/
+test-results/
+.DS_Store
+Rainy/obj/
+Rainy-tests/obj/
+*.zip
+
+
+# release folders
+rainy-?.??

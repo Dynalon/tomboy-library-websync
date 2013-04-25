@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tomboy-library-websync", "tomboy-library-websync.csproj", "{BA3396DF-4D7E-45C0-9BF1-3F52FE6FFA92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevDefined.OAuth", "DevDefined.OAuth\src\DevDefined.OAuth\DevDefined.OAuth.csproj", "{61B700B6-3911-4CEF-8751-7F42CA765068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B700B6-3911-4CEF-8751-7F42CA765068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B700B6-3911-4CEF-8751-7F42CA765068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B700B6-3911-4CEF-8751-7F42CA765068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B700B6-3911-4CEF-8751-7F42CA765068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA3396DF-4D7E-45C0-9BF1-3F52FE6FFA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3396DF-4D7E-45C0-9BF1-3F52FE6FFA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3396DF-4D7E-45C0-9BF1-3F52FE6FFA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3396DF-4D7E-45C0-9BF1-3F52FE6FFA92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = tomboy-library-websync.csproj
+	EndGlobalSection
+EndGlobal
