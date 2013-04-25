@@ -24,7 +24,7 @@ using Tomboy.Tags;
 using System.Linq;
 using ServiceStack.Common;
 
-namespace Tomboy.Sync.DTO
+namespace Tomboy.Sync.Web.DTO
 {
 	public class ApiRequest
 	{

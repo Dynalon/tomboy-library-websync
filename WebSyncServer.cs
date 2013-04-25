@@ -20,7 +20,7 @@
 using System;
 using System.Collections.Generic;
 using ServiceStack.ServiceClient.Web;
-using Tomboy.Sync.DTO;
+using Tomboy.Sync.Web.DTO;
 using DevDefined.OAuth.Framework;
 using DevDefined.OAuth.Consumer;
 using ServiceStack.Common;
